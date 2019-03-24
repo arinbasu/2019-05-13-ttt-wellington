@@ -3,7 +3,7 @@
 #------------------------------------------------------------
 
 # Which carpentry is this ("swc" or "dc")?
-carpentry: "ttt"
+carpentry: "swc"
 
 # Overall title for pages.
 title: "Instructor Training Workshop"
